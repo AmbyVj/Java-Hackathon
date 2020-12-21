@@ -13,7 +13,7 @@ public class OccuranceOfChars {
 		
 		System.out.println("\nGiven String : "+str);	
 	    System.out.println("\nOccurances of each Character  :");
-	    str = str.toLowerCase();
+	    //str = str.toLowerCase();
 	    char[] cArray = str.toCharArray();
 	    
 	    for(int i=0;i<cArray.length;i++)

@@ -2,7 +2,6 @@ package HackathonQns;
 
 import java.util.Scanner;
 
-//package HackathonQns;
 
 public class Palindrome {
 
